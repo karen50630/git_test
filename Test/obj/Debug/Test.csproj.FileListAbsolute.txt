@@ -127,7 +127,6 @@ D:\Web\Test\bin\System.Interactive.Async.xml
 D:\Web\Test\bin\Grpc.Core.Api.dll
 D:\Web\Test\bin\Grpc.Core.Api.pdb
 D:\Web\Test\bin\Grpc.Core.Api.xml
-D:\tutorial\Test\bin\Test.dll.config
 D:\tutorial\Test\bin\Test.dll
 D:\tutorial\Test\bin\Test.pdb
 D:\tutorial\Test\bin\roslyn\csc.exe
@@ -176,8 +175,6 @@ D:\tutorial\Test\bin\roslyn\vbc.exe.config
 D:\tutorial\Test\bin\roslyn\vbc.rsp
 D:\tutorial\Test\bin\roslyn\VBCSCompiler.exe
 D:\tutorial\Test\bin\roslyn\VBCSCompiler.exe.config
-D:\tutorial\Test\bin\Test.dll.CodeAnalysisLog.xml
-D:\tutorial\Test\bin\Test.dll.lastcodeanalysissucceeded
 D:\tutorial\Test\bin\Antlr3.Runtime.dll
 D:\tutorial\Test\bin\AspNet.ScriptManager.bootstrap.dll
 D:\tutorial\Test\bin\AspNet.ScriptManager.jQuery.dll
@@ -247,8 +244,6 @@ D:\tutorial\Test\bin\Microsoft.AspNet.FriendlyUrls.xml
 D:\tutorial\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\tutorial\Test\bin\zh-Hant\System.Web.Optimization.resources.dll
 D:\tutorial\Test\bin\zh-Hant\Microsoft.AspNet.FriendlyUrls.resources.dll
-D:\tutorial\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-D:\tutorial\Test\obj\Debug\Test.csproj.CopyComplete
 D:\tutorial\Test\obj\Debug\Test.dll
 D:\tutorial\Test\obj\Debug\Test.pdb
 D:\tutorial\Test\bin\grpc_csharp_ext.x86.dll
@@ -257,3 +252,9 @@ D:\tutorial\Test\bin\libgrpc_csharp_ext.x86.so
 D:\tutorial\Test\bin\libgrpc_csharp_ext.x64.so
 D:\tutorial\Test\bin\libgrpc_csharp_ext.x86.dylib
 D:\tutorial\Test\bin\libgrpc_csharp_ext.x64.dylib
+D:\tutorial\Test\bin\Test.dll.config
+D:\tutorial\Test\bin\Test.dll.CodeAnalysisLog.xml
+D:\tutorial\Test\bin\Test.dll.lastcodeanalysissucceeded
+D:\tutorial\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\tutorial\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\tutorial\Test\obj\Debug\Test.csproj.CopyComplete
